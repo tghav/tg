@@ -74,7 +74,10 @@ $ docker run -d -p 3000:3000 -v /path/to/my/downloads:/downloads jpillora/cloud-
 
 **Heroku**
 
-Heroku is no longer supported
+
+Click this button to...
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ### Usage
 
